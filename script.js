@@ -4,6 +4,7 @@ window.addEventListener("load", function() {
 
    let listedPlanets;
    // Set listedPlanetsResponse equal to the value returned by calling myFetch()
+   //Testing my ability to commit//
    let listedPlanetsResponse;
    listedPlanetsResponse.then(function (result) {
        listedPlanets = result;
